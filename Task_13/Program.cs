@@ -4,7 +4,7 @@
    return int.Parse(result[2].ToString());
 } 
 
-Console.Write("Введите трехзначное число: ");
+Console.Write("Введите число: ");
 
 int num = int.Parse(Console.ReadLine());
 
